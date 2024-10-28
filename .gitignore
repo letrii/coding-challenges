@@ -1,0 +1,6 @@
+.idea/
+quiz_service/.venv/
+.DS_Store
+.env
+quiz-client/node_modules/
+__pycache__/

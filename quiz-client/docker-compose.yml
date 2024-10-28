@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  quiz_client:
+    container_name: quiz_client
+    build: .
+    ports:
+      - '3000:3000'
